@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @holleyp
-- 👀 I’m interested in statistic and computing with that
+- 👀 I’m interested in statistics and computing with that
 - 🌱 I’m currently majoring in statistics and minoring in cs at Purdue University
 - 📫 My school email is holleyp@purdue.edu
 
