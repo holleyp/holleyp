@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @holleyp
 - 👀 I’m interested in statistics and computing with that
-- 🌱 I’m currently majoring in statistics and minoring in cs at Purdue University
-- 📫 My school email is holleyp@purdue.edu
+- 🌱 I graduated from Purdue university with a dual degree in Mathematics and Statistics as well as a minor in computer science
+- 📫 My  email is paulh1748@gmail.com
 
 <!---
 holleyp/holleyp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
